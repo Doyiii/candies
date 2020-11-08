@@ -26,7 +26,7 @@ int main()
         printf ("\n Candy B = Php %.2f", cdB);
         printf ("\n Candy C = Php %.2f", cdC);
         printf ("\n Candy D = Php %.2f", cdD);
-        printf ("\n\n Bag of Candies = Php %.2f \n", total);
+        printf ("\n\n Bag of Candies = Php %.2f \n\n", total);
 
     return 0;
 }
